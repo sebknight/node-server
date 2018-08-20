@@ -10,6 +10,7 @@
 // console.log('the server is running on port 3000');
 
 const http = require('http');
+const fs = require('fs');
 
 var server = http.createServer(function (request, response) {
     var page;
