@@ -4,7 +4,7 @@
   "description": "nodejs server practice",
   "main": "index.js",
   "scripts": {
-    "dev:server": "nodemon index.js",
+    "dev:server": "nodemon -L index.js"
   },
   "repository": {
     "type": "git",
