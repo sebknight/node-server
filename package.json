@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "nodejs server practice",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "nodemon index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebknight/node-server.git"
+  },
+  "author": "sebastian maddox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebknight/node-server/issues"
+  },
+  "homepage": "https://github.com/sebknight/node-server#readme",
+  "dependencies": {}
+}
