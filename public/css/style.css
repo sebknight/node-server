@@ -59,3 +59,11 @@ body {
     a {
         color: floralwhite;
     }
+
+    form {
+        margin-bottom: 2rem;
+    }
+    
+    input {
+        display: inline-block;
+    }
